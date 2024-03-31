@@ -12,4 +12,5 @@ This script is used to get the realtime hardware information of the system. This
 - Install Python 3.x
 - Install required packages using `pip install -r requirements.txt`
 - Download and install Libre Hardware Monitor from [here](https://github.com/LibreHardwareMonitor/LibreHardwareMonitor/releases)
+- Start Libre Hardware Monitor first (**This is important as without this script won't work**)
 - Run the script using `python main.py`
